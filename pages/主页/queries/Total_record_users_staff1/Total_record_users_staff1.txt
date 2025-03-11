@@ -1,0 +1,1 @@
+SELECT COUNT(*) from users.staff where name ilike '%{{Table1.searchText}}%';

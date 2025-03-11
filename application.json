@@ -1,0 +1,23 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "DESKTOP"
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#ECECEC",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "主页",
+      "isDefault": true
+    },
+    {
+      "id": "登录页面",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  }
+}

@@ -1,0 +1,1 @@
+UPDATE users.staff SET "name"= '{{Table1.updatedRow.name}}', "role"= '{{Table1.updatedRow.role}}' WHERE "staff_id"= {{Table1.updatedRow.staff_id}};
