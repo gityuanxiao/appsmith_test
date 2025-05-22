@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "Update_users_staff1",
     "pageId": "主页",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

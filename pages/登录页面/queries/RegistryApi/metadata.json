@@ -42,9 +42,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "RegistryApi",
     "pageId": "登录页面",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

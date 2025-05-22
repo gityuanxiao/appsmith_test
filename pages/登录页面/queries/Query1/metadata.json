@@ -21,9 +21,9 @@
       "name": "localhost",
       "pluginId": "mysql-plugin"
     },
-    "executeOnLoad": false,
     "name": "Query1",
     "pageId": "登录页面",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
